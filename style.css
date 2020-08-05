@@ -130,6 +130,7 @@ header a:first-child {
 }
 
 .offer-info {
+    width: 60vw;
     display: flex;
     font-size: small;
     font-weight: normal;
